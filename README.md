@@ -39,6 +39,7 @@ These notes for everyone who want to familiar Python Environment quickly.
         - Dictionary
         - Loop
         - Function
+        - Installing Packages
         - Using Module
         - Numpy Arrays
         - Plot
@@ -46,16 +47,22 @@ These notes for everyone who want to familiar Python Environment quickly.
         - Class
         - Data from Web
  2. Basics
-    2.1 Basic Data Types
+    2.1 Data Types in Python
     2.2 Input Output
     2.3 Unicode Characters
     2.4 Special Characters in String
-    2.5 General Concept of Variables
+    2.5 General Concepts of Variables
     2.6 Hashability and Mutability
     2.7 Decision Statements
         - if
         - else if
+        - switch
     2.8 Loops
+        - while
+        - for
+        - continue
+        - break
+        - else just after loop
  3. Data Types (https://github.com/lijin-THU/notes-python/blob/master/02-python-essentials/02.02-python-data-types.ipynb) 
     3.1 Number
         - Numerical Data Type
@@ -115,3 +122,4 @@ These notes for everyone who want to familiar Python Environment quickly.
  - [Python Crash Course 2nd Edition](https://nostarch.com/pythoncrashcourse2e) 
  - [Bansalkanav/Python_notes](https://github.com/bansalkanav/python_notes) 
  - [lijin-THU/notes-python](https://github.com/lijin-THU/notes-python) 
+
