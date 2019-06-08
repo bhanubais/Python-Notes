@@ -18,20 +18,20 @@ These notes for everyone who want to familiar Python Environment quickly.
 
 ## Index
  1. About Python
-    1.1 Introduction
+    1. Introduction
         - Python is Good for
         - Python is not Good for
         - Uses of Python
         - Features
         - How Python Works
-    1.2 Hello Python
+    2. Hello Python
         - Hello World!
         - Zen of Python
         - Python Reserved Keywords
-    1.3 Getting Help
+    3. Getting Help
         - See Available Variables, Functions or Methods
         - Getting Help for Particular Functions
-    1.4 A Tour of Python (https://github.com/lijin-THU/notes-python/blob/master/02-python-essentials/02.01-a-tour-of-python.ipynb)
+    4. A Tour of Python (https://github.com/lijin-THU/notes-python/blob/master/02-python-essentials/02.01-a-tour-of-python.ipynb)
         - Number
         - String
         - List
@@ -47,49 +47,49 @@ These notes for everyone who want to familiar Python Environment quickly.
         - Class
         - Data from Web
  2. Basics
-    2.1 Data Types in Python
-    2.2 Input Output
-    2.3 Unicode Characters
-    2.4 Special Characters in String
-    2.5 General Concepts of Variables
-    2.6 Hashability and Mutability
-    2.7 Decision Statements
+    1. Data Types in Python
+    2. Input Output
+    3. Unicode Characters
+    4. Special Characters in String
+    5. General Concepts of Variables
+    6. Hashability and Mutability
+    7. Decision Statements
         - if
         - else if
         - switch
-    2.8 Loops
+    8. Loops
         - while
         - for
         - continue
         - break
         - else just after loop
  3. Data Types (https://github.com/lijin-THU/notes-python/blob/master/02-python-essentials/02.02-python-data-types.ipynb) 
-    3.1 Number
+    1. Number
         - Numerical Data Type
         - Mathematical Functions
-    3.2 Sequential Data
-    3.3 String
-    3.4 List
-    3.5 Tuple
-    3.6 Dictionary
-    3.7 Set
-    3.8 Frozen Set
+    2. Sequential Data
+    3. String
+    4. List
+    5. Tuple
+    6. Dictionary
+    7. Set
+    8. Frozen Set
  4. Essentials
-    4.1 List Comprehension
-    4.2 DateTime
-    4.3 Functions
-    4.4 Modules and Packages
-    4.5 Exceptions
-    4.6 Warning
-    4.7 Scope
-    4.8 File Handling
+    1. List Comprehension
+    2. DateTime
+    3. Functions
+    4. Modules and Packages
+    5. Exceptions
+    6. Warning
+    7. Scope
+    8. File Handling
  5. Useful Built-in Libraries
-    5.1 operator
-    5.2 functools
-    5.3 itertools
-    5.4 collections
-    5.5 pprint
-    5.6 json
+    1. operator
+    2. functools
+    3. itertools
+    4. collections
+    5. pprint
+    6. json
  6. Regular Expression
  7. Classes Essentials
  8. Threads
@@ -98,18 +98,18 @@ These notes for everyone who want to familiar Python Environment quickly.
  11. Scipy
  12. Web-API
  13. DataBase
-    14.1 CSV
-    14.2 SQLite
-    14.3 MySQL
-    14.4 MongoDB
+    1. CSV
+    2. SQLite
+    3. MySQL
+    4. MongoDB
  14. GUI
  15. Advanced Topics
-    15.1 Generators
-    15.2 Decorators
-    15.3 Sys Module
-    15.4 Interacting with OS
-    15.5 Dynamic Code Execution
-    15.6 Context Managers
+    1. Generators
+    2. Decorators
+    3. Sys Module
+    4. Interacting with OS
+    5. Dynamic Code Execution
+    6. Context Managers
  16. Matplotlib
  17. Interfacing with Other Languages
  18. Object Oriented Programming
