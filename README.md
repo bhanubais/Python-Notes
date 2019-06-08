@@ -31,7 +31,7 @@ These notes for everyone who want to familiar Python Environment quickly.
     3. Getting Help
         - See Available Variables, Functions or Methods
         - Getting Help for Particular Functions
-    4. A Tour of Python (https://github.com/lijin-THU/notes-python/blob/master/02-python-essentials/02.01-a-tour-of-python.ipynb)
+    4. A Tour of Python
         - Number
         - String
         - List
@@ -63,7 +63,7 @@ These notes for everyone who want to familiar Python Environment quickly.
         - continue
         - break
         - else just after loop
- 3. Data Types (https://github.com/lijin-THU/notes-python/blob/master/02-python-essentials/02.02-python-data-types.ipynb) 
+ 3. Data Types
     1. Number
         - Numerical Data Type
         - Mathematical Functions
