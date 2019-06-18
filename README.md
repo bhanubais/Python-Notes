@@ -65,15 +65,17 @@ These notes for everyone who want to familiar Python Environment quickly.
         - else just after loop
  3. Data Types
     1. Number
-        - Numerical Data Type
-        - Mathematical Functions
-    2. Sequential Data
-    3. String
-    4. List
-    5. Tuple
-    6. Dictionary
-    7. Set
-    8. Frozen Set
+        - Number System
+        - Useful Operators
+        - Built-in Numerical Functions
+    2. Mathematical Functions
+    3. Sequential Data
+    4. String
+    5. List
+    6. Tuple
+    7. Dictionary
+    8. Set
+    9. Frozen Set
  4. Essentials
     1. List Comprehension
     2. DateTime
