@@ -71,11 +71,12 @@ These notes for everyone who want to familiar Python Environment quickly.
     2. Mathematical Functions
     3. Sequential Data
     4. String
-    5. List
-    6. Tuple
-    7. Dictionary
-    8. Set
-    9. Frozen Set
+    5. String Methods
+    6. List
+    7. Tuple
+    8. Dictionary
+    9. Set
+    10. Frozen Set
  4. Essentials
     1. List Comprehension
     2. DateTime
