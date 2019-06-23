@@ -73,6 +73,13 @@ These notes for everyone who want to familiar Python Environment quickly.
     4. String
     5. String Methods
     6. List
+        - About List
+        - Making List
+        - List Manipulations
+        - + vs += vs append operator
+        - Copy a list
+        - String to List and vice versa
+        - Useful Tricks
     7. Tuple
     8. Dictionary
     9. Set
