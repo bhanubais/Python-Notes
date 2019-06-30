@@ -72,8 +72,9 @@ These notes for everyone who want to familiar Python Environment quickly.
     3. Sequential Data
     4. String
     5. String Methods
-    6. List
+    6. List-Tuple
         - About List
+        - About Tuple
         - Making List
         - List Manipulations
         - + vs += vs append operator
