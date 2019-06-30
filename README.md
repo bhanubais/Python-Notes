@@ -92,6 +92,14 @@ These notes for everyone who want to familiar Python Environment quickly.
         - Enumerating a list
         - List Comprehensions
     8. Dictionary
+        - Creating Dictionary
+        - Accessing a Dictionary
+        - Check a key in a Dictionary
+        - Adding into Dictionary
+        - Updating a Dictionary
+        - Getting value
+        - Deleting Element
+        - Copy a Dictionary
     9. Set
     11. Frozen Set
  4. Essentials
