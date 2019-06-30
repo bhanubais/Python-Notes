@@ -80,10 +80,19 @@ These notes for everyone who want to familiar Python Environment quickly.
         - Copy a list
         - String to List and vice versa
         - Useful Tricks
-    7. Tuple
-    8. Dictionary
-    9. Set
-    10. Frozen Set
+    7. List Methods
+        - Length of a list
+        - Sort/Reverse
+        - count
+        - Split a String
+        - concatenate a list
+        - Some Mathematical operations on a list
+        - Enumerating a list
+        - List Comprehensions
+    8. Tuple
+    9. Dictionary
+    10. Set
+    11. Frozen Set
  4. Essentials
     1. List Comprehension
     2. DateTime
