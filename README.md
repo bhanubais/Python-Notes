@@ -76,6 +76,7 @@ These notes for everyone who want to familiar Python Environment quickly.
         - About List
         - About Tuple
         - Making List
+        - Making Tuple
         - List Manipulations
         - + vs += vs append operator
         - Copy a list
@@ -90,9 +91,8 @@ These notes for everyone who want to familiar Python Environment quickly.
         - Some Mathematical operations on a list
         - Enumerating a list
         - List Comprehensions
-    8. Tuple
-    9. Dictionary
-    10. Set
+    8. Dictionary
+    9. Set
     11. Frozen Set
  4. Essentials
     1. List Comprehension
