@@ -18,20 +18,20 @@ These notes for everyone who want to familiar Python Environment quickly.
 
 ## Index
  1. About Python
-	1. [x] Introduction
+	[x] 1.  Introduction
 		- Python is Good for
 		- Python is not Good for
 		- Uses of Python
 		- Features
 		- How Python Works
-	2. [x] Hello Python
+	[x] 2.  Hello Python
 		- Hello World!
 		- Zen of Python
 		- Python Reserved Keywords
-	3. [x] Getting Help
+	[x] 3.  Getting Help
 		- See Available Variables, Functions or Methods
 		- Getting Help for Particular Functions
-	4. [x] A Tour of Python
+	[x] 4.  A Tour of Python
 		- Number
 		- String
 		- List
@@ -47,32 +47,32 @@ These notes for everyone who want to familiar Python Environment quickly.
 		- Class
 		- Data from Web
  2. Basics
-	1. [x] Data Types in Python
-	2. [x] Input Output
-	3. [x] Unicode Characters
-	4. [x] Special Characters in String
-	5. [x] General Concepts of Variables
-	6. [x] Hashability and Mutability
-	7. [x] Decision Statements
+	[x] 1.  Data Types in Python
+	[x] 2.  Input Output
+	[x] 3.  Unicode Characters
+	[x] 4.  Special Characters in String
+	[x] 5.  General Concepts of Variables
+	[x] 6.  Hashability and Mutability
+	[x] 7.  Decision Statements
 		- if
 		- else if
 		- switch
-	8. [x] Loops
+	[x] 8.  Loops
 		- while
 		- for
 		- continue
 		- break
 		- else just after loop
  3. Data Types
-	1. [x] Number
+	[x] 1.  Number
 		- Number System
 		- Useful Operators
 		- Built-in Numerical Functions
-	2. [x] Mathematical Functions
-	3. [x] Sequential Data
-	4. [x] String
-	5. [x] String Methods
-	6. [x] List-Tuple
+	[x] 2.  Mathematical Functions
+	[x] 3.  Sequential Data
+	[x] 4.  String
+	[x] 5.  String Methods
+	[x] 6.  List-Tuple
 		- About List
 		- About Tuple
 		- Making List
@@ -82,7 +82,7 @@ These notes for everyone who want to familiar Python Environment quickly.
 		- Copy a list
 		- String to List and vice versa
 		- Useful Tricks
-	7. [x] List Methods
+	[x] 7.  List Methods
 		- Length of a list
 		- Sort/Reverse
 		- count
@@ -91,7 +91,7 @@ These notes for everyone who want to familiar Python Environment quickly.
 		- Some Mathematical operations on a list
 		- Enumerating a list
 		- List Comprehensions
-	8. [x] Dictionary
+	[x] 8.  Dictionary
 		- Creating Dictionary
 		- Accessing a Dictionary
 		- Check a key in a Dictionary
@@ -100,24 +100,24 @@ These notes for everyone who want to familiar Python Environment quickly.
 		- Getting value
 		- Deleting Element
 		- Copy a Dictionary
-	9. [ ] Set
-	11 [ ]. Frozen Set
+	[ ] 9.  Set
+	[ ] 11 . Frozen Set
  4. Essentials
-	1. [ ] List Comprehension
-	2. [ ] DateTime
-	3. [ ] Functions
-	4. [ ] Modules and Packages
-	5. [ ] Exceptions
-	6. [ ] Warning
-	7. [ ] Scope
-	8. [ ] File Handling
+	[ ] 1.  List Comprehension
+	[ ] 2.  DateTime
+	[ ] 3.  Functions
+	[ ] 4.  Modules and Packages
+	[ ] 5.  Exceptions
+	[ ] 6.  Warning
+	[ ] 7.  Scope
+	[ ] 8.  File Handling
  5. Useful Built-in Libraries
-	1. [ ] operator
-	2. [ ] functools
-	3. [ ] itertools
-	4. [ ] collections
-	5. [ ] pprint
-	6. [ ] json
+	[ ] 1.  operator
+	[ ] 2.  functools
+	[ ] 3.  itertools
+	[ ] 4.  collections
+	[ ] 5.  pprint
+	[ ] 6.  json
  6. Regular Expression
  7. Classes Essentials
  8. Threads
@@ -126,18 +126,18 @@ These notes for everyone who want to familiar Python Environment quickly.
  11. Scipy
  12. Web-API
  13. DataBase
-	1. [ ] CSV
-	2. [ ] SQLite
-	3. [ ] MySQL
-	4. [ ] MongoDB
+	[ ] 1.  CSV
+	[ ] 2.  SQLite
+	[ ] 3.  MySQL
+	[ ] 4.  MongoDB
  14. GUI
  15. Advanced Topics
-	1. [ ] Generators
-	2. [ ] Decorators
-	3. [ ] Sys Module
-	4. [ ] Interacting with OS
-	5. [ ] Dynamic Code Execution
-	6. [ ] Context Managers
+	[ ] 1.  Generators
+	[ ] 2.  Decorators
+	[ ] 3.  Sys Module
+	[ ] 4.  Interacting with OS
+	[ ] 5.  Dynamic Code Execution
+	[ ] 6.  Context Managers
  16. Matplotlib
  17. Interfacing with Other Languages
  18. Object Oriented Programming
