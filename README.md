@@ -9,115 +9,115 @@ These notes for everyone who want to familiar Python Environment quickly.
 ## Instruction to use this Notes
 
  1. Install Jupyter Notebook using following command after installing latest Python Code as administrator.
-    `python -m pip install --upgrade pip`
-    `python -m pip install jupyter`
+	`python -m pip install --upgrade pip`
+	`python -m pip install jupyter`
  2. Pull this repository using Git on your system and change directory into this folder and run following command to run Jupyter.
-    `cd where/you/download`
-    `jupyter notebook ./`
+	`cd where/you/download`
+	`jupyter notebook ./`
  3. Note Enjoy these interactive notes into Browser.
 
 ## Index
  1. About Python
-    1. Introduction
-        - Python is Good for
-        - Python is not Good for
-        - Uses of Python
-        - Features
-        - How Python Works
-    2. Hello Python
-        - Hello World!
-        - Zen of Python
-        - Python Reserved Keywords
-    3. Getting Help
-        - See Available Variables, Functions or Methods
-        - Getting Help for Particular Functions
-    4. A Tour of Python
-        - Number
-        - String
-        - List
-        - Set
-        - Dictionary
-        - Loop
-        - Function
-        - Installing Packages
-        - Using Module
-        - Numpy Arrays
-        - Plot
-        - File IO
-        - Class
-        - Data from Web
+	1. [x] Introduction
+		- Python is Good for
+		- Python is not Good for
+		- Uses of Python
+		- Features
+		- How Python Works
+	2. [x] Hello Python
+		- Hello World!
+		- Zen of Python
+		- Python Reserved Keywords
+	3. [x] Getting Help
+		- See Available Variables, Functions or Methods
+		- Getting Help for Particular Functions
+	4. [x] A Tour of Python
+		- Number
+		- String
+		- List
+		- Set
+		- Dictionary
+		- Loop
+		- Function
+		- Installing Packages
+		- Using Module
+		- Numpy Arrays
+		- Plot
+		- File IO
+		- Class
+		- Data from Web
  2. Basics
-    1. Data Types in Python
-    2. Input Output
-    3. Unicode Characters
-    4. Special Characters in String
-    5. General Concepts of Variables
-    6. Hashability and Mutability
-    7. Decision Statements
-        - if
-        - else if
-        - switch
-    8. Loops
-        - while
-        - for
-        - continue
-        - break
-        - else just after loop
+	1. [x] Data Types in Python
+	2. [x] Input Output
+	3. [x] Unicode Characters
+	4. [x] Special Characters in String
+	5. [x] General Concepts of Variables
+	6. [x] Hashability and Mutability
+	7. [x] Decision Statements
+		- if
+		- else if
+		- switch
+	8. [x] Loops
+		- while
+		- for
+		- continue
+		- break
+		- else just after loop
  3. Data Types
-    1. Number
-        - Number System
-        - Useful Operators
-        - Built-in Numerical Functions
-    2. Mathematical Functions
-    3. Sequential Data
-    4. String
-    5. String Methods
-    6. List-Tuple
-        - About List
-        - About Tuple
-        - Making List
-        - Making Tuple
-        - List Manipulations
-        - + vs += vs append operator
-        - Copy a list
-        - String to List and vice versa
-        - Useful Tricks
-    7. List Methods
-        - Length of a list
-        - Sort/Reverse
-        - count
-        - Split a String
-        - concatenate a list
-        - Some Mathematical operations on a list
-        - Enumerating a list
-        - List Comprehensions
-    8. Dictionary
-        - Creating Dictionary
-        - Accessing a Dictionary
-        - Check a key in a Dictionary
-        - Adding into Dictionary
-        - Updating a Dictionary
-        - Getting value
-        - Deleting Element
-        - Copy a Dictionary
-    9. Set
-    11. Frozen Set
+	1. [x] Number
+		- Number System
+		- Useful Operators
+		- Built-in Numerical Functions
+	2. [x] Mathematical Functions
+	3. [x] Sequential Data
+	4. [x] String
+	5. [x] String Methods
+	6. [x] List-Tuple
+		- About List
+		- About Tuple
+		- Making List
+		- Making Tuple
+		- List Manipulations
+		- + vs += vs append operator
+		- Copy a list
+		- String to List and vice versa
+		- Useful Tricks
+	7. [x] List Methods
+		- Length of a list
+		- Sort/Reverse
+		- count
+		- Split a String
+		- concatenate a list
+		- Some Mathematical operations on a list
+		- Enumerating a list
+		- List Comprehensions
+	8. [x] Dictionary
+		- Creating Dictionary
+		- Accessing a Dictionary
+		- Check a key in a Dictionary
+		- Adding into Dictionary
+		- Updating a Dictionary
+		- Getting value
+		- Deleting Element
+		- Copy a Dictionary
+	9. [ ] Set
+	11 [ ]. Frozen Set
  4. Essentials
-    1. List Comprehension
-    2. DateTime
-    3. Functions
-    4. Modules and Packages
-    5. Exceptions
-    6. Warning
-    7. Scope
-    8. File Handling
+	1. [ ] List Comprehension
+	2. [ ] DateTime
+	3. [ ] Functions
+	4. [ ] Modules and Packages
+	5. [ ] Exceptions
+	6. [ ] Warning
+	7. [ ] Scope
+	8. [ ] File Handling
  5. Useful Built-in Libraries
-    1. operator
-    2. functools
-    3. itertools
-    4. collections
-    5. pprint
-    6. json
+	1. [ ] operator
+	2. [ ] functools
+	3. [ ] itertools
+	4. [ ] collections
+	5. [ ] pprint
+	6. [ ] json
  6. Regular Expression
  7. Classes Essentials
  8. Threads
@@ -126,18 +126,18 @@ These notes for everyone who want to familiar Python Environment quickly.
  11. Scipy
  12. Web-API
  13. DataBase
-    1. CSV
-    2. SQLite
-    3. MySQL
-    4. MongoDB
+	1. [ ] CSV
+	2. [ ] SQLite
+	3. [ ] MySQL
+	4. [ ] MongoDB
  14. GUI
  15. Advanced Topics
-    1. Generators
-    2. Decorators
-    3. Sys Module
-    4. Interacting with OS
-    5. Dynamic Code Execution
-    6. Context Managers
+	1. [ ] Generators
+	2. [ ] Decorators
+	3. [ ] Sys Module
+	4. [ ] Interacting with OS
+	5. [ ] Dynamic Code Execution
+	6. [ ] Context Managers
  16. Matplotlib
  17. Interfacing with Other Languages
  18. Object Oriented Programming
