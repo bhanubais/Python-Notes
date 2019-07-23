@@ -21,17 +21,22 @@ These notes for everyone who want to familiar Python Environment quickly.
 	1. [x] Introduction
 		- Python is Good for
 		- Python is not Good for
-		- Uses of Python
+		- People using Python For
 		- Features
 		- How Python Works
 	2. [x] Hello Python
 		- Hello World!
 		- Zen of Python
 		- Python Reserved Keywords
+		- Reserved Keywords
 	3. [x] Getting Help
-		- See Available Variables, Functions or Methods
-		- Getting Help for Particular Functions
-	4. [x] A Tour of Python
+		- Available Names in the current scope
+		- Getting Attributes of Particular Name
+		- Current Scope's local variables
+		- Built-In Keywords, Functions, Methods
+		- Available Methods/Properties in a Module
+		- Getting Help for Particular Function
+	4. [x] A Quick Tour of Python
 		- Number
 		- String
 		- List
@@ -40,12 +45,13 @@ These notes for everyone who want to familiar Python Environment quickly.
 		- Loop
 		- Function
 		- Installing Packages
-		- Using Module
-		- Numpy Arrays
-		- Plot
-		- File IO
 		- Class
-		- Data from Web
+	5. [x] Using Packages
+		- Installing Packages
+		- Using Modules
+		- Numpy Arrays
+		- Plotting a Simple Graph
+		- Fetching data from Web
  2. Basics
 	1. [x] Data Types in Python
 	2. [x] Input Output
