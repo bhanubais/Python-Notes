@@ -44,7 +44,7 @@ These notes for everyone who want to familiar Python Environment quickly.
 		- Dictionary
 		- Loop
 		- Function
-		- Installing Packages
+		- File Read/Write
 		- Class
 	5. [x] Using Packages
 		- Installing Packages
@@ -54,18 +54,17 @@ These notes for everyone who want to familiar Python Environment quickly.
 		- Fetching data from Web
  2. Basics
 	1. [x] Data Types in Python
-	2. [x] Input Output
+	2. [x] Input & Output
 	3. [x] Unicode Characters
 	4. [x] Special Characters in String
 	5. [x] General Concepts of Variables
 	6. [x] Hashability and Mutability
 	7. [x] Decision Statements
-		- if
-		- else if
+		- if, elif, and else
 		- switch
 	8. [x] Loops
-		- while
-		- for
+		- while loop: forever
+		- for loop: repeat(n)
 		- continue
 		- break
 		- else just after loop
