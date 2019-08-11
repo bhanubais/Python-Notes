@@ -74,9 +74,49 @@ These notes for everyone who want to familiar Python Environment quickly.
 		- Useful Operators
 		- Built-in Numerical Functions
 	2. [x] Mathematical Functions
-	3. [x] Sequential Data
-	4. [x] String
+	3. [x] Sequential Data Types
+		- Defining
+		- Accessing an element
+		- Updating
+		- Repetitions by *
+	4. [x] String / Byte Sequence
+		- Creating Strings
+		- Argument Specifier in String
+		- Editing a String
+		- Useful string Constants
 	5. [x] String Methods
+		- Type Cases
+		- Testing
+			+ Alphabets only
+			+ Alphabets or Numeric only
+			+ Digits only
+			+ White Space only
+			+ Is Lowercase
+			+ Is UpperCase
+			+ Is TitleCase
+			+ Starts with
+			+ Ends with
+		- Join Sequential 
+		- String Alignment Methods
+			+ Left Align
+			+ Right Align
+			+ Center Align
+		- Text Wrap
+		- Remove WhiteSpaces or Characters
+			+ From Left Side
+			+ From Right Side
+			+ From Both Side
+		- Searching Methods
+			+ Simple Search
+			+ Return index from Left Side
+			+ Return index from Right Side
+			+ Non-overlapping Occurrences
+		- Replacing String
+		- Other Useful Methods
+			+ Convert Tabs into Spaces
+			+ Divide a string from given separator
+			+ String to List
+			+ List to String
 	6. [x] List-Tuple
 		- About List
 		- About Tuple
@@ -86,17 +126,37 @@ These notes for everyone who want to familiar Python Environment quickly.
 		- + vs += vs append operator
 		- Copy a list
 		- String to List and vice versa
-		- Useful Tricks
+		- Unpacking a list with `*`
+		- Mutation and Iteration
 	7. [x] List Methods
-		- Length of a list
-		- Sort/Reverse
-		- count
+		- Number of Elements in a list
+		- Sorting / Reversing
+			+ Immutable Sorting
+			+ Mutable Sorting
+			+ Mutable Reverse
+		- `count(self, value, /)`
 		- Split a String
-		- concatenate a list
-		- Some Mathematical operations on a list
+		- Concatenate a list
+		- Mathematical Operations on a list
 		- Enumerating a list
 		- List Comprehensions
-	8. [x] Dictionary
+	8. [x] Set
+		- Introduction
+		- Creating Sets
+		- Adding Item(s) in Set
+		- Removing Item
+		- Immutable Set Operations
+			+ Union
+			+ Intersection
+			+ Difference
+			+ Symmetric Difference
+		- Mutable Set Operations
+			+ Union
+			+ Intersection
+			+ Difference
+			+ Symmetric Difference
+		- Check Subset
+	9. [x] Dictionary
 		- Creating Dictionary
 		- Accessing a Dictionary
 		- Check a key in a Dictionary
@@ -105,8 +165,10 @@ These notes for everyone who want to familiar Python Environment quickly.
 		- Getting value
 		- Deleting Element
 		- Copy a Dictionary
-	9. [ ] Set
-	11 [ ]. Frozen Set
+		- Sorting a Dictionary
+		- Unpacking a Dictionary with `**`
+		- Top 10 Most Common Words in a Text File
+	10 [ ]. Frozen Set
  4. Essentials
 	1. [ ] List Comprehension
 	2. [ ] DateTime
