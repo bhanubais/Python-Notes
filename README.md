@@ -170,7 +170,14 @@ These notes for everyone who want to familiar Python Environment quickly.
 		- Top 10 Most Common Words in a Text File
 	10 [ ]. Frozen Set
  4. Essentials
-	1. [ ] List Comprehension
+	1. [x] List Comprehension
+		- Basic Enumeration
+			+ Range
+			+ Enumeration
+			+ Zip
+		- Simple List Comprehension
+		- Nested List Comprehension
+		- Filter with List Comprehension
 	2. [ ] DateTime
 	3. [ ] Functions
 	4. [ ] Modules and Packages
