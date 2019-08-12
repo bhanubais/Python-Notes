@@ -178,7 +178,10 @@ These notes for everyone who want to familiar Python Environment quickly.
 		- Simple List Comprehension
 		- Nested List Comprehension
 		- Filter with List Comprehension
-	2. [ ] DateTime
+	2. [x] DateTime
+		- Create date and time
+		- Display date and time
+		- `timedelta`: Difference between two date/time
 	3. [ ] Functions
 	4. [ ] Modules and Packages
 	5. [ ] Exceptions
