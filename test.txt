@@ -1,1 +1,0 @@
-This is a test file to see whether my git repository working properly.
