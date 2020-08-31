@@ -211,7 +211,7 @@ These notes for everyone who want to familiar Python Environment quickly.
 	4. [ ] MongoDB
  14. GUI
  15. Advanced Topics
-	1. [ ] Generators
+	1. [x] Generators
 	2. [ ] Decorators
 	3. [ ] Sys Module
 	4. [ ] Interacting with OS
