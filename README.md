@@ -178,23 +178,25 @@ These notes for everyone who want to familiar Python Environment quickly.
 		- Simple List Comprehension
 		- Nested List Comprehension
 		- Filter with List Comprehension
-	2. [x] DateTime
+	2. [x] Basic Tricks
+	3. [x] DateTime
 		- Create date and time
 		- Display date and time
 		- `timedelta`: Difference between two date/time
-	3. [ ] Functions
-	4. [ ] Modules and Packages
-	5. [ ] Exceptions
-	6. [ ] Warning
-	7. [ ] Scope
-	8. [ ] File Handling
+	4. [ ] Functions
+	5. [ ] Modules and Packages
+	6. [ ] Exceptions
+	7. [ ] Warning
+	8. [ ] Scope
+	9. [ ] File Handling
  5. Useful Built-in Libraries
-	1. [ ] operator
-	2. [ ] functools
-	3. [ ] itertools
-	4. [ ] collections
-	5. [ ] pprint
-	6. [ ] json
+	1. [x] Downloading
+	2. [ ] operator
+	3. [ ] functools
+	4. [ ] itertools
+	5. [ ] collections
+	6. [ ] pprint
+	7. [ ] json
  6. Regular Expression
  7. Classes Essentials
  8. Threads
